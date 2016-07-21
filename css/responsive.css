@@ -643,6 +643,7 @@
   }
 }
 
+
 @media only screen and (max-width: 440px) {
   #header{
     padding:50px 0px 0px 0px;
@@ -888,6 +889,174 @@
   }
 }
 
+@media only screen and (max-width: 360px){
+
+  #header{
+    padding:50px 0px 0px 0px;
+  }
+
+  #home-slider{
+    background-position:center;
+    margin:auto 0;
+    height:210px;
+  }
+
+  #home-slider .CS-Banner{
+    width:80%;
+    margin-bottom:0px;
+  }
+
+  #home-slider .CS-Tablet{
+    margin:auto;
+    position:relative;
+    bottom:10px;
+    width:90%;
+  }
+
+  #home-slider h1{
+    margin:auto;
+    position:relative;
+    bottom:40px;
+    right:0px;
+  }
+
+  #home-slider .CS-Belt{
+    right:135px;
+    width:25%;
+    bottom:360px;
+  }
+
+  #home-slider .slide-img-text{
+    font-size:6px;
+    line-height:12px;
+    width:45%;
+    right:100px;
+    bottom:320px;
+  }
+
+  .single-service{
+    height:300px;
+  }
+
+  .single-service img{
+    width:100%;
+  }
+
+  .last-words{
+    bottom:-40px;
+    right:110px;
+    width:40%;
+  }
+
+  .last-words h1{
+    font-size:14px;
+  }
+
+  .last-words h2{
+    font-size:12px;
+  }
+
+  .copyright-text{
+    padding-bottom:0;
+  }
+
+  .copyright-text p{
+    font-size:8px;
+  }
+
+  .form-control{
+    font-size:10px;
+  }
+  .btn-submit{
+    font-size:10px;
+  }
+
+}
+
+@media only screen and (max width: 340px){
+
+  #header{
+    padding:50px 0px 0px 0px;
+  }
+
+  #home-slider{
+    background-position:center;
+    margin:auto 0;
+    height:250px;
+  }
+
+  #home-slider .CS-Banner{
+    width:80%;
+    margin-bottom:-7.5px;
+  }
+
+  #home-slider .CS-Tablet{
+    margin:auto;
+    position:relative;
+    bottom:10px;
+    width:90%;
+  }
+
+  #home-slider h1{
+    margin:auto;
+    position:relative;
+    bottom:40px;
+    right:0px;
+  }
+
+  #home-slider .CS-Belt{
+    right:160px;
+    width:25%;
+    bottom:340px;
+  }
+
+  #home-slider .slide-img-text{
+    font-size:6px;
+    line-height:12px;
+    width:40%;
+    right:130px;
+    bottom:295px;
+  }
+
+  .single-service{
+    height:300px;
+  }
+
+  .single-service img{
+    width:100%;
+  }
+
+  .last-words{
+    bottom:-30px;
+    right:125px;
+    width:40%;
+  }
+
+  .last-words h1{
+    font-size:16px;
+  }
+
+  .last-words h2{
+    font-size:14px;
+  }
+
+  .copyright-text{
+    padding-bottom:0;
+  }
+
+  .copyright-text p{
+    font-size:8px;
+  }
+
+  .form-control{
+    font-size:10px;
+  }
+  .btn-submit{
+    font-size:10px;
+  }
+
+}
+
 @media only screen and (max-width: 320px) {
   #header{
     padding:50px 0px 0px 0px;
@@ -920,9 +1089,9 @@
   }
 
   #home-slider .CS-Belt{
-    right:140px;
+    right:120px;
     width:25%;
-    bottom:360px;
+    bottom:380px;
   }
 
   {
