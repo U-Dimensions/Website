@@ -390,7 +390,7 @@ ul.sub-menu {
 
 #footer {
   padding-bottom: 10px;
-  background-image: url(../images/home/footer.png);
+  /*background-image: url(../images/home/footer.png);*/
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: contain;
@@ -535,14 +535,15 @@ ul.sub-menu {
 *******Home Page******
 **************************/
 #home-slider {
-  background: url(../images/home/slider-bg.png) 0 100% repeat-x;
+  /*background: url(../images/home/slider-bg.png) 0 100% repeat-x;*/
   position: relative;
 }
 
 #home-slider .main-slider {
   position: relative;
-  height: 500px;
+  /*height: 500px;*/
   text-align:center;
+  margin: auto 0;
 }
 
 #home-slider .slide-text{
@@ -554,14 +555,18 @@ ul.sub-menu {
 
 #home-slider .slide-image{
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #home-slider .slide-img-text{
-  margin:auto;
-  position:absolute;
-  width: 30%;
-  right:410px;
-  bottom:90px;
+  margin: auto;
+  bottom: 23%;
+  right: 37%;
+  width:300px;
+  font-size: large;
+  position: absolute;
 }
 
 .animate-in .slide-img-text {
@@ -575,10 +580,10 @@ ul.sub-menu {
   animation: bounceInDown 250ms ease-in-out 1400ms both;
 }
 
-.animate-in .slide-text {
+/*.animate-in .slide-text {
   -webkit-animation: fadeInLeftBig 700ms cubic-bezier(0.190,1.000,0.220,1.000) 200ms both;
   animation: fadeInLeftBig 700ms cubic-bezier(0.190,1.000,0.220,1.000) 200ms both;
-}
+}*/
 
 #home-slider .CS-Banner {
   margin:auto;
@@ -586,29 +591,55 @@ ul.sub-menu {
 
 #home-slider .CS-Tablet {
   margin:auto;
-  position:relative;
-  /*width:50%;
-  background-image:url('../images/CS-Tablet.png');
-  background-repeat:no-repeat;
-  background-size:50%;*/
 }
 
-.animate-in .CS-Tablet {
-  -webkit-animation: bounceInDown 1000ms ease-in-out 200ms both;
-  animation: bounceInDown 1000ms ease-in-out 200ms both;
+#home-slider .CS-Tablet-Right {
+  margin:auto;
 }
+
+#home-slider .CS-Tablet-Left {
+  margin:auto;
+}
+
+/*.animate-in .CS-Tablet {
+  -webkit-animation: zoomInUp 1000ms ease-in-out 200ms both;
+  animation: zoomInUp 1000ms ease-in-out 200ms both;
+}
+
+.animate-in .CS-Tablet-Right {
+  -webkit-animation: bounceInRight 1000ms ease-in-out 200ms both;
+  animation: bounceInRight 1000ms ease-in-out 400ms both;
+}
+
+.animate-in .CS-Tablet-Left {
+  -webkit-animation: bounceInLeft 1000ms ease-in-out 200ms both;
+  animation: bounceInLeft 1000ms ease-in-out 200ms both;
+}*/
 
 #home-slider .CS-Belt {
   margin:auto;
-  bottom:160px;
-  right:430px;
+  bottom:40%;
+  right:38%;
   position:absolute;
 }
 
-.animate-in .CS-Belt {
-  -webkit-animation: bounceInDown 500ms ease-in-out 800ms both;
-  animation: bounceInDown 500ms ease-in-out 800ms both;
+#home-slider .CS-Store {
+  margin:auto;
+  width:20%;
+  bottom:40%;
+  right:42%;
+  position:absolute;
 }
+
+/*.animate-in .CS-Belt {
+  -webkit-animation: fadeIn 500ms ease-in-out 800ms both;
+  animation: fadeIn 500ms ease-in-out 800ms both;
+}
+
+.animate-in .CS-Store {
+  -webkit-animation: fadeIn 500ms ease-in-out 800ms both;
+  animation: fadeIn 500ms ease-in-out 800ms both;
+}*/
 
 #home-slider .slider-sun {
   position: absolute;
@@ -648,7 +679,7 @@ ul.sub-menu {
   margin:auto;
   position:absolute;
   color:white;
-  right:115px;
+  right:405px;
   bottom:25px;
 }
 
@@ -2766,6 +2797,9 @@ span.stButton_gradient,
 
 .body-video{
   margin:35px 0px 0px 0px;
+  position:absolute;
+  right:370px;
+  bottom:70px
 }
 
 .last-words{
