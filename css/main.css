@@ -627,7 +627,7 @@ ul.sub-menu {
   margin:auto;
   width:20%;
   bottom:40%;
-  right:42%;
+  right:40%;
   position:absolute;
 }
 
@@ -2798,8 +2798,8 @@ span.stButton_gradient,
 .body-video{
   margin:35px 0px 0px 0px;
   position:absolute;
-  right:370px;
-  bottom:70px
+  right:393px;
+  bottom:75px
 }
 
 .last-words{
