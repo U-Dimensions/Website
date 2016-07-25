@@ -570,14 +570,8 @@ ul.sub-menu {
 }
 
 .animate-in .slide-img-text {
-  -webkit-animation: bounceInLeft 300ms ease-in-out 500ms both;
-  animation: bounceInLeft 300ms ease-in-out 500ms both;
-
-  -webkit-animation: bounceInRight 300ms ease-in-out 500ms both;
-  animation: bounceInRight 250ms 300ms ease-in-out 500ms both;
-
-  -webkit-animation: bounceInDown 300ms ease-in-out 500ms both;
-  animation: bounceInDown 300ms ease-in-out 500ms both;
+  -webkit-animation: bounceInDown 500ms ease-in 1s both;
+  animation: bounceInDown 500ms ease-in 1s both;
 }
 
 /*.animate-in .slide-text {
