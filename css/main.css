@@ -688,7 +688,7 @@ ul.sub-menu {
   margin:auto;
   position:absolute;
   color:white;
-  right:27%;
+  right:26%;
   bottom:40%;
   text-transform: uppercase;
 }
@@ -697,7 +697,7 @@ ul.sub-menu {
   margin:auto;
   position:absolute;
   color:white;
-  right:30%;
+  right:31%;
   bottom:40%;
   text-transform: uppercase;
 }
@@ -2833,8 +2833,8 @@ span.stButton_gradient,
 .body-video{
   margin:35px 0px 0px 0px;
   position:absolute;
-  right:392px;
-  bottom:75px
+  right:34%;
+  bottom:22%;
 }
 
 .last-words{
