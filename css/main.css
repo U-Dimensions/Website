@@ -560,7 +560,7 @@ ul.sub-menu {
   align-items: center;
 }
 
-#home-slider .slide-img-text{
+#home-slider #slide-img-text-1{
   margin: auto;
   bottom: 23%;
   right: 38%;
@@ -569,10 +569,24 @@ ul.sub-menu {
   position: absolute;
 }
 
-/*.animate-in .slide-img-text {
-  -webkit-animation: bounceInDown 500ms ease-in 1s both;
-  animation: bounceInDown 500ms ease-in 1s both;
-}*/
+#home-slider #slide-img-text-2{
+  margin: auto;
+  bottom: 23%;
+  right: 38%;
+  width:300px;
+  font-size: large;
+  position: absolute;
+}
+
+.animate-in #slide-img-text-1 {
+  -webkit-animation: bounceInDown 600ms ease-in 500s both;
+  animation: bounceInDown 600ms ease-in 500ms both;
+}
+
+.animate-in #slide-img-text-2 {
+  -webkit-animation: bounceInDown 1200ms ease-in 2s both;
+  animation: bounceInDown 1200ms ease-in 2s both;
+}
 
 /*.animate-in .slide-text {
   -webkit-animation: fadeInLeftBig 700ms cubic-bezier(0.190,1.000,0.220,1.000) 200ms both;
