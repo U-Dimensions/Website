@@ -562,7 +562,7 @@ ul.sub-menu {
 
 #home-slider #slide-img-text-1{
   margin: auto;
-  bottom: 23%;
+  bottom: 20%;
   right: 38%;
   width:300px;
   font-size: large;
@@ -571,7 +571,7 @@ ul.sub-menu {
 
 #home-slider #slide-img-text-2{
   margin: auto;
-  bottom: 23%;
+  bottom: 20%;
   right: 38%;
   width:300px;
   font-size: large;
@@ -584,7 +584,7 @@ ul.sub-menu {
 }
 
 .animate-in #slide-img-text-2 {
-  -webkit-animation: bounceInDown 1200ms ease-in 2s both;
+  -webkit-animation: bounceInDown 900ms ease-in 1.5s both;
   animation: bounceInDown 1200ms ease-in 2s both;
 }
 
