@@ -518,7 +518,7 @@ ul.sub-menu {
 
 .copyright-text{
   margin-top: 70px;
-  color: #fff;
+  color: black;
   font-size: 16px;
   padding-bottom: 15px;
 }
@@ -563,7 +563,7 @@ ul.sub-menu {
 #home-slider .slide-img-text{
   margin: auto;
   bottom: 23%;
-  right: 37%;
+  right: 38%;
   width:300px;
   font-size: large;
   position: absolute;
@@ -675,12 +675,31 @@ ul.sub-menu {
 }
 
 
-#home-slider h1{
+#home-slider .header-1{
   margin:auto;
   position:absolute;
   color:white;
-  right:405px;
-  bottom:25px;
+  right:28%;
+  bottom:40%;
+  text-transform: uppercase;
+}
+
+#home-slider .header-2{
+  margin:auto;
+  position:absolute;
+  color:white;
+  right:27%;
+  bottom:40%;
+  text-transform: uppercase;
+}
+
+#home-slider .header-3{
+  margin:auto;
+  position:absolute;
+  color:white;
+  right:30%;
+  bottom:40%;
+  text-transform: uppercase;
 }
 
 #home-slider .btn-common {
@@ -707,6 +726,22 @@ ul.sub-menu {
   margin-left: -24px;
   top: 50%;
   margin-top: -24px;
+}
+
+.balloons-back{
+  position:relative;
+}
+
+.tablet{
+  position:absolute;
+  bottom:30%;
+  left:25%;
+}
+
+.balloons-front{
+  position:absolute;
+  bottom:-60%;
+  left: -30%;
 }
 
 #action {
@@ -2798,13 +2833,13 @@ span.stButton_gradient,
 .body-video{
   margin:35px 0px 0px 0px;
   position:absolute;
-  right:393px;
+  right:392px;
   bottom:75px
 }
 
 .last-words{
   position:absolute;
-  bottom:0px;
-  right:450px;
-  width:25%;
+  bottom:39%;
+  right:26%;
+  width:40%;
 }
