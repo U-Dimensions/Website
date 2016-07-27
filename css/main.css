@@ -579,13 +579,13 @@ ul.sub-menu {
 }
 
 .animate-in #slide-img-text-1 {
-  -webkit-animation: bounceInDown 600ms ease-in 500s both;
-  animation: bounceInDown 600ms ease-in 500ms both;
+  -webkit-animation: bounceInDown 300ms ease-in 500ms both;
+  animation: bounceInDown 300ms ease-in 500ms both;
 }
 
 .animate-in #slide-img-text-2 {
   -webkit-animation: bounceInDown 900ms ease-in 1.5s both;
-  animation: bounceInDown 1200ms ease-in 2s both;
+  animation: bounceInDown 900ms ease-in 1.5s both;
 }
 
 /*.animate-in .slide-text {
