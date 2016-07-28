@@ -673,10 +673,6 @@ ul.sub-menu {
   text-transform: uppercase;
 }
 
-#home-slider .btn-common {
-  margin-top: 20px;
-}
-
 #home-slider .preloader {
   position: absolute;
   left: 0;
@@ -732,7 +728,6 @@ ul.sub-menu {
   width: 100%;
   position: statice;
 }
-
 
 .single-service{
   overflow: hidden;
@@ -811,8 +806,6 @@ ul.sub-menu {
   overflow: hidden;
   margin-bottom: 10px;
 }
-
-
 
 /*************************
 *******About Us Page******
@@ -2804,8 +2797,13 @@ span.stButton_gradient,
 .body-video{
   /*margin:35px 0px 0px 0px;*/
   position:absolute;
-  right:15%;
-  bottom:22%;
+  right:39%;
+  bottom:16.5%;
+}
+
+#CS-Video{
+  width:155%;
+  height:270px;
 }
 
 .last-words{
