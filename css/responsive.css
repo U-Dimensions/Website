@@ -900,5 +900,128 @@
 }
 
 @media only screen and (max-width: 320px) {
+  #header{
+    padding:50px 0px 0px 0px;
+  }
 
+  #home-slider{
+    background-position:center;
+    margin:auto 0;
+    height:900px;
+  }
+
+  #home-slider .CS-Banner{
+    width:80%;
+    margin-bottom:-7.5px;
+  }
+
+  #home-slider h1{
+    margin:auto;
+    position:relative;
+    bottom:35px;
+    right:0px;
+  }
+
+  #header-1{
+    font-size:small;
+    right:28%;
+    bottom:30%;
+  }
+  #header-2{
+    font-size:small;
+    right:26%;
+    bottom:30%;
+  }
+  #header-3{
+    font-size:small;
+    right:32%;
+    bottom:30%;
+  }
+
+  #home-slider .CS-Belt{
+    right:25%;
+    width:50%;
+    bottom:40%;
+  }
+
+  #slide-img-text-1{
+    font-size: smaller;
+    width:60%;
+    right:20%;
+    bottom:15%;
+  }
+
+  #slide-img-text-2{
+    font-size: smaller;
+    line-height:12px;
+    width:60%;
+    right:19%;
+    bottom:20%;
+  }
+
+  .tablet{
+    bottom:25%;
+    left:0;
+  }
+
+  .imgTab{
+    width:100%;
+  }
+
+  .imgTabBall{
+    width:80%;
+  }
+
+  .balloons-front{
+    bottom:-50%;
+    left:-10%;
+  }
+
+  .ballBack{
+    width:100%;
+  }
+
+  .ballFront{
+    width:100%;
+  }
+
+  .body-video{
+    bottom:15%;
+    right:4%;
+  }
+
+  #CS-Video{
+    width:87%;
+    height:150px;
+  }
+
+  .last-words{
+    width:40%;
+    bottom:34%;
+    right:25%;
+  }
+
+  .last-words h1{
+    font-size:14px;
+  }
+
+  .last-words h2{
+    font-size:12px;
+  }
+
+  .copyright-text{
+    padding-bottom:0;
+  }
+
+  .copyright-text p{
+    font-size:8px;
+  }
+  .form-control{
+    height:50%;
+    font-size:10px;
+  }
+  .btn-submit{
+    font-size:10px;
+    padding: 5px 0px 5px 0px;
+  }
 }
