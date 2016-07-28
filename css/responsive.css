@@ -640,6 +640,10 @@
 }
 
 @media only screen and (max-width: 440px) {
+  .logo{
+    width:20%;
+  }
+
   #header{
     padding:50px 0px 0px 0px;
   }
@@ -761,13 +765,16 @@
   .btn-submit{
     font-size:10px;
   }
-
 }
 
 @media only screen and (max-width: 415px) {
 }
 
 @media only screen and (max-width: 375px) {
+  .logo{
+    width:20%;
+  }
+
   #header{
     padding:50px 0px 0px 0px;
   }
@@ -900,6 +907,10 @@
 }
 
 @media only screen and (max-width: 320px) {
+  .logo{
+    width:20%;
+  }
+
   #header{
     padding:50px 0px 0px 0px;
   }
