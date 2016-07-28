@@ -641,7 +641,7 @@
 
 @media only screen and (max-width: 440px) {
   .logo{
-    width:15%;
+    width:20%;
   }
 
   #header{
@@ -772,7 +772,7 @@
 
 @media only screen and (max-width: 375px) {
   .logo{
-    width:15%;
+    width:20%;
   }
 
   #header{
@@ -908,7 +908,7 @@
 
 @media only screen and (max-width: 320px) {
   .logo{
-    width:15%;
+    width:20%;
   }
 
   #header{
