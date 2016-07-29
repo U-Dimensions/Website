@@ -167,7 +167,7 @@
 
 #header{
   width:100%;
-  padding: 50px 0 50px 0;
+  padding: 25px 0 25px 0;
   text-align: center;
   display: inline-block;
   font-size: 50%;
@@ -2819,4 +2819,8 @@ span.stButton_gradient,
 
 .logo{
   width:10%;
+}
+
+.CS-DownArrow{
+  width:5%;
 }
