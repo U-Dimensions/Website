@@ -639,6 +639,140 @@
 
 }
 
+@media only screen and (max-width: 480px) {
+  .logo{
+    width:30%;
+  }
+
+  .CS-DownArrow{
+    width:10%;
+  }
+
+  #header{
+    padding:25px 0px 0px 0px;
+  }
+
+  #home-slider{
+    background-position:center;
+    margin:auto 0;
+    height:1300px;
+  }
+
+  #home-slider .CS-Banner{
+    width:80%;
+    margin-bottom:-7.5px;
+  }
+
+  #home-slider h1{
+    margin:auto;
+    position:relative;
+    bottom:35px;
+    right:0px;
+  }
+
+  #header-1{
+    font-size:medium;
+    right:31%;
+    bottom:35%;
+  }
+  #header-2{
+    font-size:medium;
+    right:29%;
+    bottom:35%;
+  }
+  #header-3{
+    font-size:medium;
+    right:34%;
+    bottom:35%;
+  }
+
+  #home-slider .CS-Belt{
+    right:25%;
+    width:50%;
+    bottom:40%;
+  }
+
+  #slide-img-text-1{
+    font-size: smaller;
+    line-height:12px;
+    width:45%;
+    right:28%;
+    bottom:20%;
+  }
+
+  #slide-img-text-2{
+    font-size: smaller;
+    line-height:12px;
+    width:65%;
+    right:17%;
+    bottom:20%;
+  }
+
+  .tablet{
+    bottom:25%;
+    left:0;
+  }
+
+  .imgTab{
+    width:100%;
+  }
+
+  .imgTabBall{
+    width:80%;
+  }
+
+  .balloons-front{
+    bottom:-50%;
+    left:-10%;
+  }
+
+  .ballBack{
+    width:100%;
+  }
+
+  .ballFront{
+    width:100%;
+  }
+
+  .body-video{
+    bottom:15%;
+    right:29%;
+  }
+
+  #CS-Video{
+    width:130%;
+    height:229px;
+  }
+
+  .last-words{
+    width:40%;
+    bottom:38%;
+    right:25%;
+  }
+
+  .last-words h1{
+    font-size:16px;
+  }
+
+  .last-words h2{
+    font-size:14px;
+  }
+
+  .copyright-text{
+    padding-bottom:0;
+  }
+
+  .copyright-text p{
+    font-size:8px;
+  }
+  .form-control{
+    font-size:10px;
+  }
+  .btn-submit{
+    font-size:10px;
+  }
+}
+
 @media only screen and (max-width: 440px) {
   .logo{
     width:30%;
