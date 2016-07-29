@@ -897,7 +897,6 @@
   .btn-submit{
     font-size:10px;
   }
-
 }
 
 @media only screen and (max-width: 375px) {
@@ -1031,7 +1030,136 @@
 }
 
 @media only screen and (max-width: 360px){
+  .logo{
+    width:30%;
+  }
 
+  #header{
+    padding:25px 0px 0px 0px;
+  }
+
+  #home-slider{
+    background-position:center;
+    margin:auto 0;
+    height:1110px;
+  }
+
+  #home-slider .CS-Banner{
+    width:80%;
+    margin-bottom:-7.5px;
+  }
+
+  #home-slider h1{
+    margin:auto;
+    position:relative;
+    bottom:35px;
+    right:0px;
+  }
+
+  #header-1{
+    font-size:medium;
+    right:28%;
+    bottom:30%;
+  }
+  #header-2{
+    font-size:medium;
+    right:27%;
+    bottom:30%;
+  }
+  #header-3{
+    font-size:medium;
+    right:32%;
+    bottom:30%;
+  }
+
+  #home-slider .CS-Belt{
+    right:25%;
+    width:50%;
+    bottom:40%;
+  }
+
+  #slide-img-text-1{
+    font-size: smaller;
+    line-height:12px;
+    width:60%;
+    right:20%;
+    bottom:20%;
+  }
+
+  #slide-img-text-2{
+    font-size: smaller;
+    line-height:12px;
+    width:75%;
+    right:11%;
+    bottom:20%;
+  }
+
+  .tablet{
+    bottom:25%;
+    left:0;
+  }
+
+  .imgTab{
+    width:100%;
+  }
+
+  .imgTabBall{
+    width:80%;
+  }
+
+  .balloons-front{
+    bottom:-50%;
+    left:-10%;
+  }
+
+  .ballBack{
+    width:100%;
+  }
+
+  .ballFront{
+    width:100%;
+  }
+
+  .body-video{
+    bottom:14.7%;
+    right:18%;
+  }
+
+  #CS-Video{
+    width:111%;
+    height:197px;
+  }
+
+  .last-words{
+    width:40%;
+    bottom:37%;
+    right:26%;
+  }
+
+  .last-words h1{
+    font-size:14px;
+  }
+
+  .last-words h2{
+    font-size:12px;
+    margin:0px;
+  }
+
+  .copyright-text{
+    padding-bottom:0;
+  }
+
+  .copyright-text p{
+    font-size:8px;
+  }
+  .form-control{
+    font-size:10px;
+    height:30px;
+  }
+  .btn-submit{
+    font-size:10px;
+    height:30px;
+  }
 }
 
 @media only screen and (max width: 340px){
@@ -1098,8 +1226,8 @@
   #slide-img-text-2{
     font-size: smaller;
     line-height:12px;
-    width:60%;
-    right:19%;
+    width:55%;
+    right:21%;
     bottom:20%;
   }
 
@@ -1130,13 +1258,13 @@
   }
 
   .body-video{
-    bottom:15%;
-    right:4%;
+    right:9%;
+    bottom:17%;
   }
 
   #CS-Video{
-    width:87%;
-    height:150px;
+    width:97%;
+    height:161px;
   }
 
   .last-words{
