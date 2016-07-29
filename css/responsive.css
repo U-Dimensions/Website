@@ -1220,14 +1220,14 @@
     line-height:12px;
     width:60%;
     right:20%;
-    bottom:15%;
+    bottom:20%;
   }
 
   #slide-img-text-2{
     font-size: smaller;
     line-height:12px;
-    width:55%;
-    right:21%;
+    width:60%;
+    right:20%;
     bottom:20%;
   }
 
@@ -1258,13 +1258,13 @@
   }
 
   .body-video{
-    right:9%;
-    bottom:17%;
+    right:4%;
+    bottom:13.5%;
   }
 
   #CS-Video{
-    width:97%;
-    height:161px;
+    width:87%;
+    height:156px;
   }
 
   .last-words{
