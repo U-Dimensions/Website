@@ -641,7 +641,7 @@
 
 @media only screen and (max-width: 440px) {
   .logo{
-    width:25%;
+    width:30%;
   }
 
   #header{
@@ -690,6 +690,7 @@
 
   #slide-img-text-1{
     font-size: smaller;
+    line-height:12px;
     width:70%;
     right:15%;
     bottom:20%;
@@ -697,6 +698,7 @@
 
   #slide-img-text-2{
     font-size: smaller;
+    line-height:12px;
     width:85%;
     right:7%;
     bottom:20%;
@@ -772,7 +774,7 @@
 
 @media only screen and (max-width: 375px) {
   .logo{
-    width:25%;
+    width:30%;
   }
 
   #header{
@@ -821,6 +823,7 @@
 
   #slide-img-text-1{
     font-size: smaller;
+    line-height:12px;
     width:60%;
     right:20%;
     bottom:20%;
@@ -828,6 +831,7 @@
 
   #slide-img-text-2{
     font-size: smaller;
+    line-height:12px;
     width:85%;
     right:7%;
     bottom:20%;
@@ -908,7 +912,7 @@
 
 @media only screen and (max-width: 320px) {
   .logo{
-    width:25%;
+    width:30%;
   }
 
   #header{
@@ -957,6 +961,7 @@
 
   #slide-img-text-1{
     font-size: smaller;
+    line-height:12px;
     width:60%;
     right:20%;
     bottom:15%;
