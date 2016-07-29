@@ -1041,7 +1041,7 @@
   #home-slider{
     background-position:center;
     margin:auto 0;
-    height:1110px;
+    height:1000px;
   }
 
   #home-slider .CS-Banner{
@@ -1058,13 +1058,13 @@
 
   #header-1{
     font-size:medium;
-    right:28%;
-    bottom:30%;
+    right:27.5%;
+    bottom:27.5%;
   }
   #header-2{
     font-size:medium;
-    right:27%;
-    bottom:30%;
+    right: 24.5%;
+    bottom: 27.5%;
   }
   #header-3{
     font-size:medium;
@@ -1121,13 +1121,13 @@
   }
 
   .body-video{
-    bottom:14.7%;
-    right:18%;
+    right: 9%;
+    bottom: 14%;
   }
 
   #CS-Video{
-    width:111%;
-    height:197px;
+    width: 97%;
+    height: 173px;
   }
 
   .last-words{
@@ -1269,7 +1269,7 @@
 
   .last-words{
     width:40%;
-    bottom:34%;
+    bottom:35%;
     right:26%;
   }
 
