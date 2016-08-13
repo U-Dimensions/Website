@@ -558,15 +558,6 @@ ul.sub-menu {
   position: absolute;
 }
 
-#slide-img-text-1-comp{
-  margin: auto;
-  bottom: 20%;
-  right: 23%;
-  width:300px;
-  font-size: large;
-  position: absolute;
-}
-
 #slide-img-text-2-fan{
   margin: auto;
   bottom: 20%;
@@ -576,11 +567,20 @@ ul.sub-menu {
   position: absolute;
 }
 
+#slide-img-text-1-comp{
+  margin: auto;
+  bottom: 20%;
+  right: 16%;
+  width: 70%;
+  font-size: large;
+  position: absolute;
+}
+
 #slide-img-text-2-comp{
   margin: auto;
   bottom: 18%;
   right: 13%;
-  width: 430px;
+  width: 75%;
   font-size: large;
   position: absolute;
 }
