@@ -698,7 +698,7 @@
     bottom:40%;
   }
 
-  #slide-img-text-1{
+  #slide-img-text-1-fan{
     font-size: smaller;
     line-height:12px;
     width:45%;
@@ -706,7 +706,23 @@
     bottom:20%;
   }
 
-  #slide-img-text-2{
+  #slide-img-text-2-fan{
+    font-size: smaller;
+    line-height:12px;
+    width:65%;
+    right:17%;
+    bottom:20%;
+  }
+
+  #slide-img-text-1-comp{
+    font-size: smaller;
+    line-height:12px;
+    width:45%;
+    right:28%;
+    bottom:20%;
+  }
+
+  #slide-img-text-2-comp{
     font-size: smaller;
     line-height:12px;
     width:65%;
@@ -838,7 +854,7 @@
     bottom:40%;
   }
 
-  #slide-img-text-1{
+  #slide-img-text-1-fan{
     font-size: smaller;
     line-height:12px;
     width:70%;
@@ -846,11 +862,27 @@
     bottom:20%;
   }
 
-  #slide-img-text-2{
+  #slide-img-text-2-fan{
     font-size: smaller;
     line-height:12px;
     width:85%;
     right:7%;
+    bottom:20%;
+  }
+
+  #slide-img-text-1-comp{
+    font-size: smaller;
+    line-height:12px;
+    width:70%;
+    right:15%;
+    bottom:20%;
+  }
+
+  #slide-img-text-2-comp{
+    font-size: smaller;
+    line-height:12px;
+    width:65%;
+    right:17%;
     bottom:20%;
   }
 
@@ -974,7 +1006,7 @@
     bottom:40%;
   }
 
-  #slide-img-text-1{
+  #slide-img-text-1-fan{
     font-size: smaller;
     line-height:12px;
     width:60%;
@@ -982,12 +1014,28 @@
     bottom:20%;
   }
 
-  #slide-img-text-2{
+  #slide-img-text-2-fan{
     font-size: smaller;
     line-height:12px;
     width:75%;
     right:11%;
     bottom:20%;
+  }
+
+  #slide-img-text-1-comp{
+    font-size: smaller;
+    line-height:12px;
+    width:60%;
+    right:20%;
+    bottom:20%;
+  }
+
+  #slide-img-text-2-comp{
+    font-size: xx-small;
+    line-height:12px;
+    width:70%;
+    right:15%;
+    bottom:15%;
   }
 
   .tablet{
@@ -1110,7 +1158,7 @@
     bottom:40%;
   }
 
-  #slide-img-text-1{
+  #slide-img-text-1-fan{
     font-size: smaller;
     line-height:12px;
     width:60%;
@@ -1118,12 +1166,28 @@
     bottom:20%;
   }
 
-  #slide-img-text-2{
+  #slide-img-text-2-fan{
     font-size: smaller;
     line-height:12px;
     width:85%;
     right:7%;
     bottom:20%;
+  }
+
+  #slide-img-text-1-comp{
+    font-size: smaller;
+    line-height:12px;
+    width:75%;
+    right:12%;
+    bottom:20%;
+  }
+
+  #slide-img-text-2-comp{
+    font-size: smaller;
+    line-height:12px;
+    width:80%;
+    right:10%;
+    bottom:18%;
   }
 
   .tablet{
@@ -1246,7 +1310,7 @@
     bottom:40%;
   }
 
-  #slide-img-text-1{
+  #slide-img-text-1-fan{
     font-size: smaller;
     line-height:12px;
     width:60%;
@@ -1254,7 +1318,23 @@
     bottom:20%;
   }
 
-  #slide-img-text-2{
+  #slide-img-text-2-fan{
+    font-size: smaller;
+    line-height:12px;
+    width:75%;
+    right:11%;
+    bottom:20%;
+  }
+
+  #slide-img-text-1-comp{
+    font-size: smaller;
+    line-height:12px;
+    width:60%;
+    right:20%;
+    bottom:20%;
+  }
+
+  #slide-img-text-2-comp{
     font-size: smaller;
     line-height:12px;
     width:75%;
@@ -1389,7 +1469,7 @@
     bottom:40%;
   }
 
-  #slide-img-text-1{
+  #slide-img-text-1-fan{
     font-size: smaller;
     line-height:12px;
     width:60%;
@@ -1397,7 +1477,23 @@
     bottom:20%;
   }
 
-  #slide-img-text-2{
+  #slide-img-text-2-fan{
+    font-size: smaller;
+    line-height:12px;
+    width:60%;
+    right:20%;
+    bottom:15%;
+  }
+
+  #slide-img-text-1-comp{
+    font-size: smaller;
+    line-height:12px;
+    width:60%;
+    right:20%;
+    bottom:20%;
+  }
+
+  #slide-img-text-2-comp{
     font-size: smaller;
     line-height:12px;
     width:60%;
