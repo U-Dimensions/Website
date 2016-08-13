@@ -1,3 +1,12 @@
+/*
+  Theme Name: Triangle
+  Theme Uri: http://www.themeum.com
+  Author: Themeum
+  Author Uri: http://www.themeum.com
+  Description: Creative Site Template
+  Version: 1.1
+  */
+
   @import url(https://fonts.googleapis.com/css?family=Exo);
   /*@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700);
   @import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,700);*/
@@ -552,7 +561,7 @@ ul.sub-menu {
 #slide-img-text-1{
   margin: auto;
   bottom: 20%;
-  right: 23%;
+  right: 24%;
   width:300px;
   font-size: large;
   position: absolute;
@@ -577,14 +586,15 @@ ul.sub-menu {
   animation: bounceInDown 1200ms ease-in 1.5s both;
 }
 
-#home-slider .CS-Belt {
+#home-slider .CS-First {
   margin:auto;
   bottom:40%;
-  right:23%;
+  right:30%;
   position:absolute;
+  width:45%;
 }
 
-#home-slider .CS-Store {
+#home-slider .CS-Second {
   margin:auto;
   width:45%;
   bottom:40%;
@@ -2788,12 +2798,12 @@ span.stButton_gradient,
   /*margin:35px 0px 0px 0px;*/
   position:absolute;
   right:39%;
-  bottom:15.5%;
+  bottom:17%;
 }
 
 #CS-Video{
   width:155%;
-  height:270px;
+  height:262px;
 }
 
 .last-words{
