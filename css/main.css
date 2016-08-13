@@ -561,7 +561,7 @@ ul.sub-menu {
 #slide-img-text-1{
   margin: auto;
   bottom: 20%;
-  right: 23%;
+  right: 24%;
   width:300px;
   font-size: large;
   position: absolute;
@@ -586,14 +586,15 @@ ul.sub-menu {
   animation: bounceInDown 1200ms ease-in 1.5s both;
 }
 
-#home-slider .CS-Belt {
+#home-slider .CS-First {
   margin:auto;
   bottom:40%;
-  right:23%;
+  right:30%;
   position:absolute;
+  width:45%;
 }
 
-#home-slider .CS-Store {
+#home-slider .CS-Second {
   margin:auto;
   width:45%;
   bottom:40%;
@@ -2797,12 +2798,12 @@ span.stButton_gradient,
   /*margin:35px 0px 0px 0px;*/
   position:absolute;
   right:39%;
-  bottom:15.5%;
+  bottom:17%;
 }
 
 #CS-Video{
   width:155%;
-  height:270px;
+  height:262px;
 }
 
 .last-words{

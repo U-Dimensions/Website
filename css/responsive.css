@@ -686,7 +686,7 @@
     bottom:35%;
   }
 
-  #home-slider .CS-Belt{
+  #home-slider .CS-First{
     right:25%;
     width:50%;
     bottom:40%;
@@ -820,7 +820,7 @@
     bottom:35%;
   }
 
-  #home-slider .CS-Belt{
+  #home-slider .CS-First{
     right:25%;
     width:50%;
     bottom:40%;
@@ -954,7 +954,7 @@
     bottom:35%;
   }
 
-  #home-slider .CS-Belt{
+  #home-slider .CS-First{
     right:25%;
     width:50%;
     bottom:40%;
@@ -1041,7 +1041,7 @@
   }
 }
 
-@media only screen and (max-width: 414px) {
+@media only screen and (max-width: 414px){
   .logo{
     width:30%;
   }
@@ -1084,7 +1084,7 @@
     bottom:30%;
   }
 
-  #home-slider .CS-Belt{
+  #home-slider .CS-First{
     right:25%;
     width:50%;
     bottom:40%;
@@ -1171,7 +1171,7 @@
   }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 376px) {
   .logo{
     width:30%;
   }
@@ -1214,7 +1214,7 @@
     bottom:30%;
   }
 
-  #home-slider .CS-Belt{
+  #home-slider .CS-First{
     right:25%;
     width:50%;
     bottom:40%;
@@ -1344,7 +1344,7 @@
     bottom:30%;
   }
 
-  #home-slider .CS-Belt{
+  #home-slider .CS-First{
     right:25%;
     width:50%;
     bottom:40%;
@@ -1481,7 +1481,7 @@
     bottom:30%;
   }
 
-  #home-slider .CS-Belt{
+  #home-slider .CS-First{
     right:25%;
     width:50%;
     bottom:40%;
