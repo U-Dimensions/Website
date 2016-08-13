@@ -577,14 +577,30 @@ ul.sub-menu {
   animation: bounceInDown 1200ms ease-in 1.5s both;
 }
 
-#home-slider .CS-Belt {
+#home-slider .CS-Fan-1 {
   margin:auto;
   bottom:40%;
   right:23%;
   position:absolute;
 }
 
-#home-slider .CS-Store {
+#home-slider .CS-Comp-1 {
+  margin:auto;
+  bottom:40%;
+  right:28%;
+  position:absolute;
+  width:45%;
+}
+
+#home-slider .CS-Fan-2 {
+  margin:auto;
+  width:45%;
+  bottom:40%;
+  right:27%;
+  position:absolute;
+}
+
+#home-slider .CS-Comp-2 {
   margin:auto;
   width:45%;
   bottom:40%;
@@ -2791,9 +2807,14 @@ span.stButton_gradient,
   bottom:15.5%;
 }
 
-#CS-Video{
+#CS-Video-Fan{
   width:155%;
   height:270px;
+}
+
+#CS-Video-Comp{
+  width:155%;
+  height:262px;
 }
 
 .last-words{
