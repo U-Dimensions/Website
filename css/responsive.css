@@ -40,6 +40,34 @@
 
 /* md */
 @media only screen and (max-width : 1200px) {
+
+  #header-1{
+    margin: auto;
+    position: absolute;
+    color: white;
+    right: 24%;
+    bottom: 40%;
+    text-transform: uppercase;
+  }
+
+  #header-2{
+    margin: auto;
+    position: absolute;
+    color: white;
+    right: 22%;
+    bottom: 40%;
+    text-transform: uppercase;
+  }
+
+  #header-3 {
+    margin: auto;
+    position: absolute;
+    color: white;
+    right: 28%;
+    bottom: 40%;
+    text-transform: uppercase;
+  }
+
   .tablet{
     bottom:25%;
     left:20%;
