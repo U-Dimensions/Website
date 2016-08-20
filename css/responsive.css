@@ -54,7 +54,7 @@
     margin: auto;
     position: absolute;
     color: white;
-    right: 15%;
+    right: 12%;
     bottom: 40%;
     text-transform: uppercase;
   }
@@ -684,9 +684,15 @@
     right:0px;
   }
 
-  #header-1{
+  #header-1fan{
     font-size:medium;
     right:31%;
+    bottom:35%;
+  }
+
+  #header-1{
+    font-size:medium;
+    right:25%;
     bottom:35%;
   }
   #header-2{
@@ -840,9 +846,15 @@
     right:0px;
   }
 
-  #header-1{
+#header-1fan{
     font-size:medium;
     right:30%;
+    bottom:35%;
+  }
+  
+  #header-1{
+    font-size:medium;
+    right:20%;
     bottom:35%;
   }
   #header-2{
@@ -991,10 +1003,15 @@
     bottom:35px;
     right:0px;
   }
-
-  #header-1{
+  
+  #header-1fan{
     font-size:medium;
     right:28%;
+    bottom:30%;
+  }
+  #header-1{
+    font-size:medium;
+    right:15%;
     bottom:30%;
   }
   #header-2{
@@ -1144,9 +1161,14 @@
     right:0px;
   }
 
-  #header-1{
+  #header-1fan{
     font-size:medium;
     right:27%;
+    bottom:30%;
+  }
+  #header-1{
+    font-size:medium;
+    right:15%;
     bottom:30%;
   }
   #header-2{
@@ -1296,9 +1318,14 @@
     right:0px;
   }
 
-  #header-1{
+  #header-1fan{
     font-size:medium;
     right:27.5%;
+    bottom:27.5%;
+  }
+  #header-1{
+    font-size:medium;
+    right:15.5%;
     bottom:27.5%;
   }
   #header-2{
@@ -1454,10 +1481,14 @@
     bottom:35px;
     right:0px;
   }
-
-  #header-1{
+  #header-1fan{
     font-size:small;
     right:28%;
+    bottom:30%;
+  }
+  #header-1{
+    font-size:small;
+    right:15%;
     bottom:30%;
   }
   #header-2{
