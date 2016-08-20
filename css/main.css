@@ -679,12 +679,20 @@ ul.sub-menu {
   animation: fadeInRight 500ms ease-in-out 1200ms both;
 }
 
+#header-1fan{
+  margin:auto;
+  position:absolute;
+  color:white;
+  right:28%;
+  bottom:40%;
+  text-transform: uppercase;
+}
 
 #header-1{
   margin:auto;
   position:absolute;
   color:white;
-  right:28%;
+  right:16%;
   bottom:40%;
   text-transform: uppercase;
 }
