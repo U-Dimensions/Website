@@ -41,11 +41,20 @@
 /* md */
 @media only screen and (max-width : 1200px) {
 
-  #header-1{
+  #header-1fan{
     margin: auto;
     position: absolute;
     color: white;
     right: 24%;
+    bottom: 40%;
+    text-transform: uppercase;
+  }
+  
+  #header-1{
+    margin: auto;
+    position: absolute;
+    color: white;
+    right: 20%;
     bottom: 40%;
     text-transform: uppercase;
   }
