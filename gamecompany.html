@@ -285,5 +285,13 @@
 		ga('send', 'pageview');
 	</script>
 
+	<script type="text/javascript">
+   jQuery(document).ready(function($){
+       jQuery(document).on('OptinMonsterInit', function(event, data, object) {
+           object.setProp('debug', true);
+       });
+   });
+	</script>
+
 </body>
 </html>
